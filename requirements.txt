@@ -1,0 +1,7 @@
+matplotlib
+pygad
+pymoo
+pyswarms
+seaborn
+scikit-learn
+torch
